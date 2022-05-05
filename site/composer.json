@@ -32,30 +32,6 @@
     {
       "type": "package",
       "package": {
-        "name": "amirook-plugin/wp-sync-db",
-        "type": "wordpress-plugin",
-        "version": "1.6.1",
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/amirook/wp-plugin.wp-sync-db/archive/refs/tags/1.6.1.zip"
-        }
-      }
-    },
-    {
-      "type": "package",
-      "package": {
-        "name": "amirook-plugin/wp-sync-db-media-files",
-        "type": "wordpress-plugin",
-        "version": "1.1.5",
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/amirook/wp-plugin.wp-sync-db-media-files/archive/refs/tags/1.1.5.zip"
-        }
-      }
-    },
-    {
-      "type": "package",
-      "package": {
         "name": "amirook-theme/spicepress-child",
         "type": "wordpress-theme",
         "version": "1.0",
@@ -81,8 +57,7 @@
     "wpackagist-plugin/contact-form-7": "5.5.6",
     "amirook-theme/spicepress-child": "1.0",
     "wpackagist-theme/twentytwentytwo": "1.1",
-    "wpackagist-plugin/worker": "4.9.13",
-    "wpackagist-plugin/google-site-kit": "1.73.0"
+    "wpackagist-plugin/worker": "4.9.13"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5.6",
