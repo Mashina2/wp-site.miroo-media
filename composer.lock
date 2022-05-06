@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5b938bc5144bcb445c5f624c7cf28d64",
+    "content-hash": "6c4454238d4135e9995c178c2ba8e00b",
     "packages": [
         {
             "name": "amirook-theme/spicepress-child",
@@ -762,6 +762,24 @@
                 }
             ],
             "time": "2021-12-12T23:07:53+00:00"
+        },
+        {
+            "name": "wpackagist-plugin/complianz-gdpr",
+            "version": "6.1.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/complianz-gdpr/",
+                "reference": "tags/6.1.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/complianz-gdpr.6.1.5.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/complianz-gdpr/"
         },
         {
             "name": "wpackagist-plugin/contact-form-7",
