@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3b9ab81803fcef157faab44ac71331a7",
+    "content-hash": "d580f0ff96375bb0edec421fecae770e",
     "packages": [
         {
             "name": "amirook-theme/spicepress-child",
@@ -165,6 +165,593 @@
                 }
             ],
             "time": "2021-09-13T08:19:44+00:00"
+        },
+        {
+            "name": "koodimonni-language/de_de_formal",
+            "version": "5.9.3",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/core/5.9.3/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni-plugin-language/akismet-de_de_formal": "*",
+                "koodimonni-plugin-language/bbpress-de_de_formal": "*",
+                "koodimonni-plugin-language/better-code-editing-de_de_formal": "*",
+                "koodimonni-plugin-language/buddypress-de_de_formal": "*",
+                "koodimonni-plugin-language/classic-editor-de_de_formal": "*",
+                "koodimonni-plugin-language/classic-widgets-de_de_formal": "*",
+                "koodimonni-plugin-language/debug-bar-de_de_formal": "*",
+                "koodimonni-plugin-language/enable-jquery-migrate-helper-de_de_formal": "*",
+                "koodimonni-plugin-language/health-check-de_de_formal": "*",
+                "koodimonni-plugin-language/hello-dolly-de_de_formal": "*",
+                "koodimonni-plugin-language/woocommerce-de_de_formal": "*",
+                "koodimonni-plugin-language/wordpress-importer-de_de_formal": "*",
+                "koodimonni-plugin-language/wp-front-end-editor-de_de_formal": "*",
+                "koodimonni-plugin-language/wp-jquery-update-test-de_de_formal": "*",
+                "koodimonni-theme-language/twentyeleven-de_de_formal": "*",
+                "koodimonni-theme-language/twentyfifteen-de_de_formal": "*",
+                "koodimonni-theme-language/twentyfourteen-de_de_formal": "*",
+                "koodimonni-theme-language/twentynineteen-de_de_formal": "*",
+                "koodimonni-theme-language/twentyseventeen-de_de_formal": "*",
+                "koodimonni-theme-language/twentysixteen-de_de_formal": "*",
+                "koodimonni-theme-language/twentyten-de_de_formal": "*",
+                "koodimonni-theme-language/twentythirteen-de_de_formal": "*",
+                "koodimonni-theme-language/twentytwelve-de_de_formal": "*",
+                "koodimonni-theme-language/twentytwenty-de_de_formal": "*",
+                "koodimonni-theme-language/twentytwentyone-de_de_formal": "*",
+                "koodimonni-theme-language/twentytwentytwo-de_de_formal": "*",
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "Full WordPress translation (including themes and core plugins) for German (Formal) - de_de_formal",
+            "keywords": [
+                "Full-Package",
+                "Translation",
+                "WordPress",
+                "de_de_formal"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/akismet-de_de_formal",
+            "version": "4.2.3",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/akismet/4.2.3/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress akismet translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "akismet",
+                "de_de_formal"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/bbpress-de_de_formal",
+            "version": "2.6.9",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.6.9/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress bbpress translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "bbpress",
+                "de_de_formal"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/better-code-editing-de_de_formal",
+            "version": "0.7.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/better-code-editing/0.7.0/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress better-code-editing translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "better-code-editing",
+                "de_de_formal"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/buddypress-de_de_formal",
+            "version": "10.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/buddypress/10.2.0/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress buddypress translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "buddypress",
+                "de_de_formal"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/classic-editor-de_de_formal",
+            "version": "1.6.2",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/classic-editor/1.6.2/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress classic-editor translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "classic-editor",
+                "de_de_formal"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/classic-widgets-de_de_formal",
+            "version": "0.3",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/classic-widgets/0.3/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress classic-widgets translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "classic-widgets",
+                "de_de_formal"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/debug-bar-de_de_formal",
+            "version": "1.1.3",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/debug-bar/1.1.3/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress debug-bar translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "debug-bar"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/enable-jquery-migrate-helper-de_de_formal",
+            "version": "1.3.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/enable-jquery-migrate-helper/1.3.0/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress enable-jquery-migrate-helper translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "enable-jquery-migrate-helper"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/health-check-de_de_formal",
+            "version": "1.4.5",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/health-check/1.4.5/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress health-check translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "health-check"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/hello-dolly-de_de_formal",
+            "version": "1.7.2",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/hello-dolly/1.7.2/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress hello-dolly translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "hello-dolly"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/woocommerce-de_de_formal",
+            "version": "6.4.1",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/woocommerce/6.4.1/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress woocommerce translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "woocommerce"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/wordpress-importer-de_de_formal",
+            "version": "0.7",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.7/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress wordpress-importer translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "wordpress-importer"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/wp-front-end-editor-de_de_formal",
+            "version": "2.2.1",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/wp-front-end-editor/2.2.1/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress wp-front-end-editor translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "wp-front-end-editor"
+            ]
+        },
+        {
+            "name": "koodimonni-plugin-language/wp-jquery-update-test-de_de_formal",
+            "version": "2.0.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/wp-jquery-update-test/2.0.0/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress wp-jquery-update-test translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "wp-jquery-update-test"
+            ]
+        },
+        {
+            "name": "koodimonni-theme-language/twentyeleven-de_de_formal",
+            "version": "4.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/theme/twentyeleven/4.0/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress twentyeleven translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "twentyeleven"
+            ]
+        },
+        {
+            "name": "koodimonni-theme-language/twentyfifteen-de_de_formal",
+            "version": "3.1",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/theme/twentyfifteen/3.1/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress twentyfifteen translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "twentyfifteen"
+            ]
+        },
+        {
+            "name": "koodimonni-theme-language/twentyfourteen-de_de_formal",
+            "version": "3.3",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/theme/twentyfourteen/3.3/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress twentyfourteen translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "twentyfourteen"
+            ]
+        },
+        {
+            "name": "koodimonni-theme-language/twentynineteen-de_de_formal",
+            "version": "2.2",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/theme/twentynineteen/2.2/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress twentynineteen translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "twentynineteen"
+            ]
+        },
+        {
+            "name": "koodimonni-theme-language/twentyseventeen-de_de_formal",
+            "version": "2.9",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/theme/twentyseventeen/2.9/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress twentyseventeen translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "twentyseventeen"
+            ]
+        },
+        {
+            "name": "koodimonni-theme-language/twentysixteen-de_de_formal",
+            "version": "2.6",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/theme/twentysixteen/2.6/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress twentysixteen translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "twentysixteen"
+            ]
+        },
+        {
+            "name": "koodimonni-theme-language/twentyten-de_de_formal",
+            "version": "3.6",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/theme/twentyten/3.6/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress twentyten translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "twentyten"
+            ]
+        },
+        {
+            "name": "koodimonni-theme-language/twentythirteen-de_de_formal",
+            "version": "3.5",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/3.5/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress twentythirteen translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "twentythirteen"
+            ]
+        },
+        {
+            "name": "koodimonni-theme-language/twentytwelve-de_de_formal",
+            "version": "3.6",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/theme/twentytwelve/3.6/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress twentytwelve translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "twentytwelve"
+            ]
+        },
+        {
+            "name": "koodimonni-theme-language/twentytwenty-de_de_formal",
+            "version": "1.9",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/theme/twentytwenty/1.9/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress twentytwenty translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "twentytwenty"
+            ]
+        },
+        {
+            "name": "koodimonni-theme-language/twentytwentyone-de_de_formal",
+            "version": "1.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/theme/twentytwentyone/1.0/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress twentytwentyone translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "twentytwentyone"
+            ]
+        },
+        {
+            "name": "koodimonni-theme-language/twentytwentytwo-de_de_formal",
+            "version": "1.1",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/translation/theme/twentytwentytwo/1.1/de_DE_formal.zip"
+            },
+            "require": {
+                "koodimonni/composer-dropin-installer": ">=0.2.3"
+            },
+            "type": "wordpress-language",
+            "description": "WordPress twentytwentytwo translations for German (Formal) - de_de_formal",
+            "keywords": [
+                "Translation",
+                "WordPress",
+                "de_de_formal",
+                "twentytwentytwo"
+            ]
+        },
+        {
+            "name": "koodimonni/composer-dropin-installer",
+            "version": "1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Koodimonni/Composer-Dropin-Installer.git",
+                "reference": "9596ef8f50cbba2cdc707ca3b1f5e4a0e9fa7e7e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Koodimonni/Composer-Dropin-Installer/zipball/9596ef8f50cbba2cdc707ca3b1f5e4a0e9fa7e7e",
+                "reference": "9596ef8f50cbba2cdc707ca3b1f5e4a0e9fa7e7e",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": "^1.0 | ^2.0",
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^5.7"
+            },
+            "type": "composer-plugin",
+            "extra": {
+                "class": "Koodimonni\\Composer\\Dropin"
+            },
+            "autoload": {
+                "psr-4": {
+                    "Koodimonni\\Composer\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "WTFPL"
+            ],
+            "authors": [
+                {
+                    "name": "Onni Hakala",
+                    "email": "onni@keksi.io",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Install packages or a few files from packages into custom paths without overwriting existing stuff.",
+            "support": {
+                "issues": "https://github.com/Koodimonni/Composer-Dropin-Installer/issues",
+                "source": "https://github.com/Koodimonni/Composer-Dropin-Installer/tree/1.4"
+            },
+            "time": "2022-02-02T11:42:57+00:00"
         },
         {
             "name": "oscarotero/env",
