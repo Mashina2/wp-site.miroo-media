@@ -4,14 +4,14 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "690d86da764ea5fdbb0f8b40038d35db",
+    "content-hash": "3b9ab81803fcef157faab44ac71331a7",
     "packages": [
         {
             "name": "amirook-theme/spicepress-child",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/amirook/wp-theme.miroo-media.spicepress-child/archive/refs/tags/1.0.1.zip"
+                "url": "https://github.com/amirook/wp-theme.miroo-media.spicepress-child/archive/refs/tags/1.0.2.zip"
             },
             "type": "wordpress-theme"
         },
