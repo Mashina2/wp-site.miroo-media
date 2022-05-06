@@ -34,10 +34,10 @@
       "package": {
         "name": "amirook-theme/spicepress-child",
         "type": "wordpress-theme",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "dist": {
           "type": "zip",
-          "url": "https://github.com/amirook/wp-theme.miroo-media.spicepress-child/archive/refs/tags/1.0.2.zip"
+          "url": "https://github.com/amirook/wp-theme.miroo-media.spicepress-child/archive/refs/tags/1.0.3.zip"
         }
       }
     },
@@ -64,7 +64,7 @@
     "wpackagist-theme/spicepress": "2.1.1",
     "wpackagist-plugin/spicebox": "2.1",
     "wpackagist-plugin/contact-form-7": "5.5.6",
-    "amirook-theme/spicepress-child": "1.0.2",
+    "amirook-theme/spicepress-child": "1.0.3",
     "wpackagist-theme/twentytwentyone": "1.5",
     "wpackagist-plugin/worker": "4.9.13",
     "wpackagist-plugin/google-site-kit": "1.73.0",
