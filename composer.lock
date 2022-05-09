@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5a9edfa1c9128297ec5bb2b3fb29e5f6",
+    "content-hash": "9938945335a7764ad9df1c2797b7c871",
     "packages": [
         {
             "name": "amirook-theme/spicepress-child",
@@ -1388,15 +1388,15 @@
         },
         {
             "name": "wpackagist-plugin/google-site-kit",
-            "version": "1.73.0",
+            "version": "1.74.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/google-site-kit/",
-                "reference": "tags/1.73.0"
+                "reference": "tags/1.74.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/google-site-kit.1.73.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/google-site-kit.1.74.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
