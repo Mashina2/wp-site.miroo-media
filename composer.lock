@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9938945335a7764ad9df1c2797b7c871",
+    "content-hash": "9af3eb8dfc63b45126ed350ba9f981c6",
     "packages": [
         {
             "name": "amirook-theme/spicepress-child",
@@ -403,10 +403,10 @@
         },
         {
             "name": "koodimonni-plugin-language/woocommerce-de_de_formal",
-            "version": "6.4.1",
+            "version": "6.5.1",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/woocommerce/6.4.1/de_DE_formal.zip"
+                "url": "https://downloads.wordpress.org/translation/plugin/woocommerce/6.5.1/de_DE_formal.zip"
             },
             "require": {
                 "koodimonni/composer-dropin-installer": ">=0.2.3"
@@ -1352,15 +1352,15 @@
         },
         {
             "name": "wpackagist-plugin/complianz-gdpr",
-            "version": "6.1.5",
+            "version": "6.1.6.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/complianz-gdpr/",
-                "reference": "tags/6.1.5"
+                "reference": "tags/6.1.6.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/complianz-gdpr.6.1.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/complianz-gdpr.6.1.6.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1502,12 +1502,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "c99945852fb9e9de3bc89c90f24b4c8ef47668fd"
+                "reference": "c491d086242983f784b8af91cbb9de43d3374971"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/c99945852fb9e9de3bc89c90f24b4c8ef47668fd",
-                "reference": "c99945852fb9e9de3bc89c90f24b4c8ef47668fd",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/c491d086242983f784b8af91cbb9de43d3374971",
+                "reference": "c491d086242983f784b8af91cbb9de43d3374971",
                 "shasum": ""
             },
             "conflict": {
@@ -1540,11 +1540,12 @@
                 "bolt/core": "<=4.2",
                 "bottelet/flarepoint": "<2.2.1",
                 "brightlocal/phpwhois": "<=4.2.5",
+                "brotkrueml/codehighlight": "<2.7",
                 "buddypress/buddypress": "<7.2.1",
                 "bugsnag/bugsnag-laravel": ">=2,<2.0.2",
                 "bytefury/crater": "<6.0.2",
                 "cachethq/cachet": "<2.5.1",
-                "cakephp/cakephp": "<4.0.6",
+                "cakephp/cakephp": "<3.10.3|>=4,<4.0.6",
                 "cardgate/magento2": "<2.0.33",
                 "cart2quote/module-quotation": ">=4.1.6,<=4.4.5|>=5,<5.4.4",
                 "cartalyst/sentry": "<=2.1.6",
@@ -1983,7 +1984,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-05-06T13:19:01+00:00"
+            "time": "2022-05-16T08:10:11+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",

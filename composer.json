@@ -68,7 +68,7 @@
     "wpackagist-theme/twentytwentyone": "1.5",
     "wpackagist-plugin/worker": "4.9.13",
     "wpackagist-plugin/google-site-kit": "1.74.0",
-    "wpackagist-plugin/complianz-gdpr": "6.1.5",
+    "wpackagist-plugin/complianz-gdpr": "6.1.6.1",
     "koodimonni-language/de_de_formal": "*"
   },
   "require-dev": {
