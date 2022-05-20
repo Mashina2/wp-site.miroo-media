@@ -60,7 +60,7 @@
     "roots/wordpress": "5.9.3",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "wpackagist-plugin/seo-by-rank-math": "1.0.88.1",
+    "wpackagist-plugin/seo-by-rank-math": "1.0.89",
     "wpackagist-theme/spicepress": "2.1.1",
     "wpackagist-plugin/spicebox": "2.1",
     "wpackagist-plugin/contact-form-7": "5.5.6.1",

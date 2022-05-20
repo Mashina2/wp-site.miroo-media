@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d240ac027dacdbd5fcad4da4e54ca656",
+    "content-hash": "4f00043eac44d304f471d1e5f4bc9aa9",
     "packages": [
         {
             "name": "amirook-theme/spicepress-child",
@@ -213,10 +213,10 @@
         },
         {
             "name": "koodimonni-plugin-language/akismet-de_de_formal",
-            "version": "4.2.3",
+            "version": "4.2.4",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/akismet/4.2.3/de_DE_formal.zip"
+                "url": "https://downloads.wordpress.org/translation/plugin/akismet/4.2.4/de_DE_formal.zip"
             },
             "require": {
                 "koodimonni/composer-dropin-installer": ">=0.2.3"
@@ -270,10 +270,10 @@
         },
         {
             "name": "koodimonni-plugin-language/buddypress-de_de_formal",
-            "version": "10.2.0",
+            "version": "10.3.0",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/buddypress/10.2.0/de_DE_formal.zip"
+                "url": "https://downloads.wordpress.org/translation/plugin/buddypress/10.3.0/de_DE_formal.zip"
             },
             "require": {
                 "koodimonni/composer-dropin-installer": ">=0.2.3"
@@ -1406,15 +1406,15 @@
         },
         {
             "name": "wpackagist-plugin/seo-by-rank-math",
-            "version": "1.0.88.1",
+            "version": "1.0.89",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/seo-by-rank-math/",
-                "reference": "tags/1.0.88.1"
+                "reference": "tags/1.0.89"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/seo-by-rank-math.1.0.88.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/seo-by-rank-math.1.0.89.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
