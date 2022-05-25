@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6281fefc8e87fdfa9d5caa57968521af",
+    "content-hash": "b50bfea83413dfddb824321075e0289a",
     "packages": [
         {
             "name": "amirook-theme/spicepress-child",
@@ -1419,15 +1419,15 @@
         },
         {
             "name": "wpackagist-theme/twentytwentyone",
-            "version": "1.6",
+            "version": "1.5",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentytwentyone/",
-                "reference": "1.6"
+                "reference": "1.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentyone.1.6.zip"
+                "url": "https://downloads.wordpress.org/theme/twentytwentyone.1.5.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
