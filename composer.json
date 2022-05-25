@@ -57,7 +57,7 @@
     "vlucas/phpdotenv": "^4.1.8",
     "oscarotero/env": "^2.1",
     "roots/bedrock-autoloader": "^1.0",
-    "roots/wordpress": "5.9.3",
+    "roots/wordpress": "6.0",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/seo-by-rank-math": "1.0.89.1",
@@ -67,7 +67,7 @@
     "amirook-theme/spicepress-child": "1.0.3",
     "wpackagist-theme/twentytwentyone": "1.5",
     "wpackagist-plugin/worker": "4.9.13",
-    "wpackagist-plugin/google-site-kit": "1.74.0",
+    "wpackagist-plugin/google-site-kit": "1.75.0",
     "wpackagist-plugin/complianz-gdpr": "6.1.6.1",
     "koodimonni-language/de_de_formal": "*"
   },
